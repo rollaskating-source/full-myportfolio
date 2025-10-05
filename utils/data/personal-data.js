@@ -7,7 +7,7 @@ export const personalData = {
   email: 'atigunroberts221098@gmail.com',
   phone: '+(415) 555-1234',
   whatsApp: '+(628) 555-5678',
-  address: 'Greater Noida, India',
+  address: 'Untied State',
   github: 'https://github.com/Atigun-22',
   facebook: 'https://www.facebook.com/profile.php?id=100009971371239',
   linkedIn: 'https://www.linkedin.com/in/atigunroberts22',
